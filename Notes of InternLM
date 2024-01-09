@@ -12,18 +12,26 @@ Day 1 书生·浦语大模型全链路开源体系
 
 Day 2 书生·浦语大模型趣味 Demo
 	基础作业：
-使用 InternLM-Chat-7B 模型生成 300 字的小故事（需截图）。
-![使用 InternLM-Chat-7B 模型生成 300 字的小故事](image/使用 InternLM-Chat-7B 模型生成 300 字的小故事.png)
+		使用 InternLM-Chat-7B 模型生成 300 字的小故事（需截图）。
+		![使用 InternLM-Chat-7B 模型生成 300 字的小故事](image/使用 InternLM-Chat-7B 模型生成 300 字的小故事.png)
 
-熟悉 hugging face 下载功能，使用 huggingface_hub python 包，下载 InternLM-20B 的 config.json 文件到本地（需截图下载过程）。
+		熟悉 hugging face 下载功能，使用 huggingface_hub python 包，下载 InternLM-20B 的 config.json 文件到本地（需截图下载过程）。
 
-进阶作业（可选做）
-完成浦语·灵笔的图文理解及创作部署（需截图）
-完成 Lagent 工具调用 Demo 创作部署（需截图）
+	进阶作业（可选做）
+		完成浦语·灵笔的图文理解及创作部署（需截图）
+		完成 Lagent 工具调用 Demo 创作部署（需截图）
+
+Day 3
+	基础作业：
+
+		复现课程知识库助手搭建过程 (截图)
+
+	进阶作业：
+
+		选择一个垂直领域，收集该领域的专业资料构建专业知识库，并搭建专业问答助手，并在 OpenXLab 上成功部署（截图，并提供应用地址）
+
 整体实训营项目：
-
 时间周期：即日起致课程结束
-
 即日开始可以在班级群中随机组队完成一个大作业项目，一些可提供的选题如下：
 
 人情世故大模型：一个帮助用户撰写新年祝福文案的人情事故大模型
