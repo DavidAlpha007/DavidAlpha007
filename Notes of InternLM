@@ -13,7 +13,7 @@ Day 1 书生·浦语大模型全链路开源体系
 Day 2 书生·浦语大模型趣味 Demo
 	基础作业：
 使用 InternLM-Chat-7B 模型生成 300 字的小故事（需截图）。
-!(/Users/donghui/Downloads/1.png)
+!(https://github.com/DavidAlpha007/DavidAlpha007/blob/main/image/%E4%BD%BF%E7%94%A8%20InternLM-Chat-7B%20%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90%20300%20%E5%AD%97%E7%9A%84%E5%B0%8F%E6%95%85%E4%BA%8B.png)
 熟悉 hugging face 下载功能，使用 huggingface_hub python 包，下载 InternLM-20B 的 config.json 文件到本地（需截图下载过程）。
 
 进阶作业（可选做）
